@@ -13,8 +13,8 @@
   ],
   "name":"room_testes",
   "parent":{
-    "name":"BLANK GAME",
-    "path":"BLANK GAME.yyp",
+    "name":"Simulador de Trânsito",
+    "path":"Simulador de Trânsito.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{
